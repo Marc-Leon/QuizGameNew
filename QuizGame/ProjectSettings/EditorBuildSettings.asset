@@ -4,4 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/QuizGame.unity
+    guid: 3052003fa3277e54c9d227fda8a4f372
+  - enabled: 1
+    path: Assets/LogoScene.unity
+    guid: 36e070d7231b37f46a6bf219decdc065
+  - enabled: 1
+    path: Assets/Start.unity
+    guid: cc2114b75184af642a241d5dbf0ccec3
